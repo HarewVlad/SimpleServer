@@ -50,8 +50,8 @@ int main()
 				{
 					printf("%s : %s\n", username, buff);
 
-					memset(buff, 0, sizeof(buff));
-					memset(IP, 0, sizeof(IP));
+// 					memset(buff, 0, sizeof(buff));
+// 					memset(IP, 0, sizeof(IP));
 				}
 				else
 				{
